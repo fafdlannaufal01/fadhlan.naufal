@@ -1,4 +1,4 @@
-print("Belajar Phuton")
+print("Belajar Phyton")
 print("#############")
 
 a = 3
